@@ -1,6 +1,6 @@
 # DistilledMiniTSLM
 Official repository for Enhancing Transfer Learning for Specific Tasks through Redirection and Distillation from Time Series Language Models
 
-The code is organizing, waiting to be approved for release.
+The code is currently being organized, pending approval for release.
 
-Tests on more common datasets will continue to be released. 
+Test on more common datasets will continue to be released. 
